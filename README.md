@@ -8,9 +8,8 @@ A custom-designed GTK switch inspired by web switches, with smooth animations an
 
 See the switch in action:
 
-![Demo](images/demo.gif)
+![Demo](demo.gif)
 
-> Replace `demo.gif` with your own recording if you want to show the real interaction.
 
 ---
 
@@ -29,5 +28,23 @@ See the switch in action:
 **For GTK3:**
 
 ```bash
-mkdir -p ~/.config/gtk-3.0
-cp custom-switch.css ~/.config/gtk-3.0/gtk.css
+cp gtk.css ~/.config/gtk-3.0/
+````
+
+**For GTK4:**
+
+```bash
+cp gtk.css ~/.config/gtk-4.0/
+```
+
+Restart your GTK apps to see the effect.
+
+---
+
+
+## Notes
+
+* The switch size and animation may vary depending on your GTK theme.
+* True overshoot (like macOS) requires custom widgets, not just GTK Switch.
+* Tested on Ubuntu GNOME with GTK3 and GTK4.
+
