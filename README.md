@@ -22,10 +22,8 @@ See the switch in action:
 - Fully CSS-based
 
 ---
-
 ## Installation
-**Download CSS File From  [Releases]**
-[Releases]= https://github.com/zeyad-pro/button-JTK-like-mac/releases
+Download CSS file from [Releases](https://github.com/zeyad-pro/button-JTK-like-mac/releases)
 
 **For GTK3:**
 
