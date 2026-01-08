@@ -28,3 +28,35 @@ switch slider {
         margin-left 220ms cubic-bezier(0.34, 1.56, 0.64, 1),
         box-shadow 200ms ease;
 }
+
+
+
+
+.sidebar-row, button,activatable {
+    border-radius: 33px;
+}
+
+
+entry{
+border-radius: 33px;
+margin-left: 5px;
+}
+box,tab{
+border-radius: 33px;
+}
+.navigation-sidebar row{
+border-radius:33px;
+}
+.navigation-sidebar row{
+border-radius: 33px;
+}
+child{
+border-radius:12px;
+}
+
+.sidebar-pane   .toggle {
+border-radius:33px;
+background: #E0E0E0;
+border-top: #fff 2px solid;
+border-bottom: #fff 2px solid;
+}
